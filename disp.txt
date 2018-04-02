@@ -1,0 +1,3 @@
+List of devices attached
+420012c1aa2f6300	device
+
